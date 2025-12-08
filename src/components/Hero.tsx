@@ -43,7 +43,7 @@ export function Hero() {
 
           <div className="flex items-center justify-center gap-4 animate-fade-up stagger-4">
             <a
-              href="https://github.com/prashantgupta"
+              href="https://github.com/Prashant44-cell"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full glass-card hover:bg-secondary/50 transition-colors"
@@ -52,7 +52,7 @@ export function Hero() {
               <Github className="h-5 w-5" />
             </a>
             <a
-              href="https://www.linkedin.com/in/prashant-gupta-02b8292bb/"
+              href="https://www.linkedin.com/in/vyahut/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full glass-card hover:bg-secondary/50 transition-colors"
