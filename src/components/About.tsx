@@ -5,8 +5,8 @@ import { cn } from '@/lib/utils';
 const details = [
   { icon: MapPin, label: 'Location', value: 'Prasauni, Bara District, Nepal' },
   { icon: GraduationCap, label: 'Education', value: 'B.E. Computer Science & Engineering' },
-  { icon: Calendar, label: 'Graduation', value: 'Class of 2028' },
-  { icon: Globe, label: 'Languages', value: 'English, Nepali, Hindi' },
+  { icon: Calendar, label: 'Graduation year', value: 'Year of 2028' },
+  { icon: Globe, label: 'Languages', value: 'English, Nepali, Hindi,Maithali,Bhojpuri'},
 ];
 
 export function About() {
@@ -29,7 +29,7 @@ export function About() {
               </h2>
               <div className="space-y-4 text-muted-foreground">
                 <p>
-                  I'm a 17-year-old 2nd year Computer Science and Engineering student at 
+                  I'm a 18-year-old 2nd year Computer Science and Engineering student at 
                   Chennai Institute of Technology. My journey in tech began with a curiosity 
                   about how things work, which evolved into a deep passion for programming 
                   and innovation.
