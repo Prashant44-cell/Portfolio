@@ -19,8 +19,8 @@ const contactInfo = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'prashant.gupta@example.com',
-    href: 'mailto:prashant.gupta@example.com',
+    value: 'prashantvyahut.work@gmail.com',
+    href: 'mailto:prashantvyahut.work@gmail.com',
   },
   {
     icon: MapPin,
@@ -32,7 +32,7 @@ const contactInfo = [
     icon: Linkedin,
     label: 'LinkedIn',
     value: 'Connect on LinkedIn',
-    href: 'https://www.linkedin.com/in/prashant-gupta-02b8292bb/',
+    href: 'https://www.linkedin.com/in/vyahut/',
   },
 ];
 
