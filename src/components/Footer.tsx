@@ -1,9 +1,9 @@
 import { Github, Linkedin, Mail, Heart } from 'lucide-react';
 
 const socialLinks = [
-  { icon: Github, href: 'https://github.com/prashantgupta', label: 'GitHub' },
-  { icon: Linkedin, href: 'https://www.linkedin.com/in/prashant-gupta-02b8292bb/', label: 'LinkedIn' },
-  { icon: Mail, href: 'mailto:prashant.gupta@example.com', label: 'Email' },
+  { icon: Github, href: 'https://github.com/Prashant44-cell', label: 'GitHub' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/vyahut/', label: 'LinkedIn' },
+  { icon: Mail, href: 'mailto:prashantvyahut.work@gmail.com', label: 'Email' },
 ];
 
 const quickLinks = [
