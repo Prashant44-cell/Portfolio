@@ -14,7 +14,6 @@ const navItems = [
   { label: 'Projects', href: '#projects' },
   { label: 'Testimonials', href: '#testimonials' },
   { label: 'Contact', href: '#contact' },
-  { label: 'Certficates', href: '#certificates' },
 ];
 
 export function Navbar({ theme, toggleTheme }: NavbarProps) {
