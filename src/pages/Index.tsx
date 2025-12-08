@@ -2,6 +2,7 @@ import { useTheme } from '@/hooks/useTheme';
 import { Navbar } from '@/components/Navbar';
 import { Hero } from '@/components/Hero';
 import { About } from '@/components/About';
+import { Certificates } from '@/components/Certificates';
 import { Skills } from '@/components/Skills';
 import { Projects } from '@/components/Projects';
 import { Testimonials } from '@/components/Testimonials';
@@ -17,6 +18,7 @@ const Index = () => {
       <main>
         <Hero />
         <About />
+        <Certificates />
         <Skills />
         <Projects />
         <Testimonials />
