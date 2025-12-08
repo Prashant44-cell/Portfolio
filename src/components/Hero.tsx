@@ -24,7 +24,7 @@ export function Hero() {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8 animate-fade-up stagger-2 text-balance">
-            A 17-year-old tech enthusiast specializing in drones and passionate about AI/ML.
+            A 18-year-old tech enthusiast specializing in drones and passionate about AI/ML.
             Currently pursuing Computer Science and Engineering at Chennai Institute of Technology.
           </p>
 
@@ -61,7 +61,7 @@ export function Hero() {
               <Linkedin className="h-5 w-5" />
             </a>
             <a
-              href="mailto:prashant@example.com"
+              href="mailto:prashantvyahut.work@gmail.com"
               className="p-3 rounded-full glass-card hover:bg-secondary/50 transition-colors"
               aria-label="Email"
             >
