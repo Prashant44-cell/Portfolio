@@ -67,7 +67,7 @@ const certificates = [
     title: 'Software Engineering Job Simulation',
     issuer: 'Electronic Arts',
     date: '2025',
-    credentialUrl: '#',
+    credentialUrl: 'https://image2url.com/images/1766150553578-3c882d51-0569-4d34-8e17-dafff7312d8f.jpg',
     skills: ['Game Object Class ', 'Improve Inventory System', 'Live Bugfix'],
   },
    {
