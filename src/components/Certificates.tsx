@@ -62,6 +62,22 @@ const certificates = [
     credentialUrl: '#',
     skills: ['Java', 'OOP', 'Data Structures'],
   },
+   {
+    id: 'cert-5',
+    title: 'Software Engineering Job Simulation',
+    issuer: 'Electronic Arts',
+    date: '2025',
+    credentialUrl: '#',
+    skills: ['Game Object Class ', 'Improve Inventory System', 'Live Bugfix'],
+  },
+   {
+    id: 'cert-6',
+    title: 'Advanced Software Engineering Job Simutlation',
+    issuer: 'Walmart Global Tech',
+    date: '2025',
+    credentialUrl: '#',
+    skills: ['Advanced Data Structures', 'Software Architecture', 'Relational Database Design','Data Munging'],
+  },
 ];
 
 export function Certificates() {
