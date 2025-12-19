@@ -27,6 +27,15 @@ const education = [
     status: 'Completed',
     description: 'Completed higher secondary education with focus on Science and Mathematics.',
   },
+  {
+    id: 'edu-3',
+    degree: 'Graduation',
+    institution: 'Chennai Institute of Technology',
+    location: 'India',
+    period: '2024 - 2028',
+    status: 'On going',
+    description: 'Pursuing degree.....',
+  },
 ];
 
 const certificates = [
