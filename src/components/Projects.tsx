@@ -77,8 +77,8 @@ const projects: Project[] = [
     challenges: 'Creating a flexible template system that works for diverse portfolios.',
     solutions: 'Built modular component system with drag-and-drop customization.',
     outcomes: 'Used by 500+ students to create professional portfolios.',
-    liveUrl: 'https://example.com',
-    repoUrl: 'https://github.com',
+    liveUrl: '',
+    repoUrl: '',
   },
   {
     id: 5,
