@@ -5,7 +5,7 @@ const skillCategories = [
   {
     title: 'Programming Languages',
     skills: [
-      { name: 'Python', level: 85 },
+      { name: 'Python', level: 80 },
       { name: 'JavaScript', level: 80 },
       { name: 'Java', level: 75 },
       { name: 'C', level: 70 },
@@ -23,7 +23,7 @@ const skillCategories = [
   {
     title: 'Specializations',
     skills: [
-      { name: 'Drone Technology', level: 80 },
+      { name: 'Drone Technology', level: 60 },
       { name: 'AI/ML', level: 70 },
       { name: 'Data Structures', level: 75 },
       { name: 'Algorithms', level: 75 },
