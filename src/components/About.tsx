@@ -35,8 +35,8 @@ export function About() {
                   and innovation.
                 </p>
                 <p>
-                  I specialize in drone technology and have a keen interest in Artificial 
-                  Intelligence and Machine Learning. When I'm not coding, you'll find me 
+                  I specialize in Blockchain and have a keen interest in Artificial 
+                  Intelligence and Machine Learning with web3 technologies. When I'm not coding, you'll find me 
                   exploring new technologies, working on personal projects, or contributing 
                   to open-source communities.
                 </p>
