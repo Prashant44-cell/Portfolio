@@ -26,7 +26,7 @@ const contactInfo = [
     icon: MapPin,
     label: 'Location',
     value: 'Prasauni, Bara District, Nepal',
-    href: null,
+    href: 'https://www.google.com/maps/place/Shiv+Baba+Hardware/@27.0333789,84.9316549,3a,80.7y,279.71h,81.22t/data=!3m7!1e1!3m5!1shZqKUXF4norEzW0LhuBtIA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.778207841614773%26panoid%3DhZqKUXF4norEzW0LhuBtIA%26yaw%3D279.7121414885729!7i13312!8i6656!4m15!1m8!3m7!1s0x399354d9295669b9:0x34767aaf91118140!2sPrasauni+44400,+Nepal!3b1!8m2!3d27.0322068!4d84.9219115!16s%2Fm%2F04mzcs6!3m5!1s0x39935526a1849d2d:0xd80767aadc360b97!8m2!3d27.0323998!4d84.9262146!16s%2Fg%2F11mbq1gxx0?entry=ttu&g_ep=EgoyMDI2MDIwMS4wIKXMDSoASAFQAw%3D%3D',
   },
   {
     icon: Linkedin,
