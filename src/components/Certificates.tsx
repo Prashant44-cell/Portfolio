@@ -150,8 +150,6 @@ export function Certificates() {
                 ))}
               </Accordion>
             </div>
-          </div>
-       </section>
 
             {/* Certificates Section */}
             <div className={cn(
@@ -216,5 +214,8 @@ export function Certificates() {
             </div>
           </div>
         </div>
+    </div>
+  </section>
   );
+        
 }
